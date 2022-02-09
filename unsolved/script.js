@@ -3,17 +3,13 @@
 // Write your code below this line
 
 
-
 // 2. Write a function to calulate the area of an object
 // Formula: area = length * width
 // Write your code below this line
 
 
 
-
-
-
-console.log(`area = ${area(10,20)}`);
+console.log(`area = ${area(10,20)}`); // Function is called within console.log
 
 // 3. Write a function to calculate the volume of an object
 // Formula: length * width * height
@@ -21,17 +17,11 @@ console.log(`area = ${area(10,20)}`);
 
 
 
-
-
 console.log(`volume = ${volume(10, 20, 30)}`);
 
-// 4. Write a function to calulate the final score of a Super Bowl football game
-//Football Scoring System: touchdown = 6, fieldGoal = 3, twoPoint = 2, extraPoint = 1
+// 4. Write a function to calulate the score of a Super Bowl football game
+//Football Scoring System: touchdown = 6, extraPoint = 1, twoPoint = 2, fieldGoal = 3
 // Write your code below this line
-
-
-
-
 
 
 
