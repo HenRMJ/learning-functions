@@ -36,4 +36,6 @@ If you have completed this activity, work through the following challenge with y
 
 * What is hoisting?
 
+* What's the difference between a function declaration, a function expression, and an arrow function?
+
 ---
